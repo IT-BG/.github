@@ -1,1 +1,1 @@
-![ITBG Cover image](./assets/cover.png)
+![ITBG Cover image](https://github.com/IT-BG/.github/blob/master/profile/assets/cover.png)
