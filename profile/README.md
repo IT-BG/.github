@@ -1,1 +1,1 @@
-![ITBG Cover image](assets/cover.png)
+![ITBG Cover image](./assets/cover.png)
